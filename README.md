@@ -63,3 +63,4 @@ This project explores customer purchasing behavior through advanced dimensionali
 
 ## 📁 Folder Structure (Optional)
 
+<img width="1566" height="763" alt="image" src="https://github.com/user-attachments/assets/9021ab03-00ee-44cc-901a-c593b57e36b6" />
